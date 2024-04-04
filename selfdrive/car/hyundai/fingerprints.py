@@ -1614,7 +1614,8 @@ FW_VERSIONS = {
   },
   CAR.GENESIS_GV70_1ST_GEN: {
     (Ecu.cornerRadar, 0x7b7, None): [
-      b'\xf1\x00JK1 BCW RR 1.00 , 1.01 (s\x94@!\x01Pdw',
+      b'\xf1\x00JK1 BCW LR 1.00 1.01  99140-AR000         ',
+      b'\xf1\x00JK1 BCW RR 1.00 1.01  99150-AR000         ',
     ],
     (Ecu.fwdCamera, 0x7c4, None): [
       b'\xf1\x00JK1 MFC  AT USA LHD 1.00 1.01 99211-AR200 220125',
